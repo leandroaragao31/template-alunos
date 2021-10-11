@@ -49,3 +49,61 @@ export const BottomWrapper = styled.div`
     flex-direction: column;
     align-items: center;
 `
+
+export const BoxGif = styled.div`
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(34, 37, 75);
+    height: 40vh;
+`
+
+export const ImageMain = styled.img`
+    width: 150px;
+`
+
+export const TitleGif = styled.h2`
+    color: #fff;
+`
+
+export const ParagraphGif = styled.p`
+    width: 450px;
+    color: #fff;
+`
+
+export const BoxImgMain = styled.div`
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+`
+export const TitleImgMain = styled.h2`
+    width: 300px;
+    color: rgb(34, 37, 75);
+`
+
+export const ParagraphImgMain = styled.p`
+    color: rgb(34, 37, 75);
+`
+
+export const BoxMain = styled.div`
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(34, 37, 75);
+`
+
+export const ParagraphMain = styled.p`
+    width: 700px;
+    color: #fff;
+`
+export const TitleMain = styled.h2`
+    width: 350px;
+    color: #fff;
+`
+
+export const WrapperMain = styled.div`
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+`

@@ -8,9 +8,9 @@ module.exports = {
     {
       resolve: "gatsby-source-graphql",
       options: {
-        typeName: "",
-        fieldName: "",
-        url: "",
+        typeName: "alldata",
+        fieldName: "alldata",
+        url: "https://api-us-east-1.graphcms.com/v2/ckv5llfjd3v7n01xv6nlydcw3/master",
       },
     }
   ],

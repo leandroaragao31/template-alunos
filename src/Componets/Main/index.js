@@ -22,7 +22,7 @@ export function Main() {
 
             <S.Title>{titleMain}</S.Title>
             <S.Paragraph>“Tic Tac” bate o relógio,
-                A folha que cai da árvore graciosamente se desmancha e se torna chão
+                A folha que cai da árvore graciosamente se desmancha e se torna chão,
                 A chuva corre, o dia vira noite e a noite vira dia.
                 Essa é a passagem de momentos da contagem regressiva para um acontecimento
                 iminente que nos persegue.

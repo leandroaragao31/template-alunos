@@ -9,7 +9,7 @@ export const GlobalStyle = createGlobalStyle`
     background-image: url('https://media.graphcms.com/UI3EPqkS8yg8nuhJrQ0j');
     background-attachment: scroll;
     background-repeat:no-repeat;
-    background-size:102vw 191vh;
+    background-size:cover;
     font-family: Open-Sans, Helvetica, Sans-Serif;
   }
 `;

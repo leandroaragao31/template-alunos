@@ -1,11 +1,11 @@
 import styled from "styled-components";
 
 export const Container = styled.header`
-    height:30vh;
-    
+    height:30vh;   
     display:flex;
     align-items:center;
     justify-content:space-evenly
+    
 `
 
 export const Logo = styled.img`

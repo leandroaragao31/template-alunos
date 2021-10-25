@@ -24,9 +24,9 @@ export const Paragraph = styled.p`
         color:#DAA520;
 
     }
-    @media (max-width:1440px){
-        font-size:1.9vh;
-        width:82%;
+    @media (max-width:768px){
+        font-size:1.5vh;
+        width:60%;
     }
 `
 

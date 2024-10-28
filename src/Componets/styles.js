@@ -6,7 +6,7 @@ export const GlobalStyle = createGlobalStyle`
     margin: 0;
     padding: 0;
     box-sizing:border-box;
-    background-image: url('https://media.graphassets.com/output=format:jpg/soz6jEh6Q8qUyll4J3l4');
+    background-image: url('https://media.graphassets.com/soz6jEh6Q8qUyll4J3l4');
     background-attachment: scroll;
     background-repeat:no-repeat;
     background-size:cover;

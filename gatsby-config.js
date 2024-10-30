@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
+    siteUrl: "https://studio-sa-east-1.hygraph.com/f8ea42da-edc8-4e7d-8062-29b11568de05/a562299452b04fb4a1c862f04b8acf80",
     title: "site",
   },
   plugins: [
